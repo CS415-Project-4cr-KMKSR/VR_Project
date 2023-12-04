@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rguptavh/Documents/GitHub/VR_Project/VRProject 5.3/Content/StarterContent/Props/MaterialSphere.uasset",
+				"C:/Users/rguptavh/Documents/GitHub/VR_Project/VRProject 5.3/Content/__ExternalActors__/TemplateLevel/Maps/FirstPersonMap/B/QJ/FBWADZEFWZAQULQLM077NK.uasset",
+				"C:/Users/rguptavh/Documents/GitHub/VR_Project/VRProject 5.3/Content/Characters/BP_PlayerVRPawn.uasset",
+				"C:/Users/rguptavh/Documents/GitHub/VR_Project/VRProject 5.3/Content/VRTemplate/Input/Actions/CS415/IA_Move2D.uasset",
+				"C:/Users/rguptavh/Documents/GitHub/VR_Project/VRProject 5.3/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/rguptavh/Documents/GitHub/VR_Project/VRProject 5.3/Content/VRTemplate/Input/Actions/CS415/IA_Rotate2D.uasset",
 				"C:/Users/kaiyaok2/Desktop/VRProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
